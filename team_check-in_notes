@@ -1,0 +1,50 @@
+BestB4: Initial team check-in:
+
+Project goals:
+
+To build a web app that connects people looking for cooking ingredients with people giving away spare food.
+
+Meeting the goals:
+
+We're currently looking into the best technologies to use, namely:
+  Stack option 1:
+    MERN stack: Mongo db, Express server, React/Node front end
+  Stack option 2:
+    As above, with a Handlebars template engine front end instead of React
+  Stack option 3:
+    Ruby on Rails, Postgres and HTML/ERB views.
+
+In order to enable us to get up to speed efficiently as we evaluate the above options,
+some of the team are building a basic Rails version of the project
+whilst others research the potential to use React and mapping and recipe APIs.
+
+  Key dates:
+    Mon & Tues: Sprint 1 (define and setup)
+    Wed & Thurs: Sprint 2 (MVP thin slice)
+    Fri & Mon Sprint 3 (build V2)
+    Tue & Wed: Sprint 4 (build V3) & feature freeze
+    Thur & Fri: Presentation prep
+
+MVP:
+  Users can sign up.
+  Users can login/logout.
+  Users can post a food item to give away, with contact details and postcode.
+  Users can view posts.
+  Users can search for food in their local postcode area, e.g. NW1.
+
+Final product:
+  As above, plus:
+  Users can post photos of food items.
+  Users can send private messages to organise collection of food items.
+  Users offering food can make their replies public (e.g. if answering an FAQ).
+  Users can see suggested recipes based on locally available food items.
+  Users can search for food within a certain distance, using a map.
+  Posts are automatically deleted after a specified expiry date.
+
+Useful links:
+  Team learning documentation: https://github.com/eashworth/BestB4/wiki
+  Team manifesto: how we plan to work together:
+    Tasks will be managed using the team Trello and accompanying Github branches.
+    We will have daily standups in the morning, and a short retro at the end of each day.
+    We also plan to have frequent catch-ups after completing key research,
+    and team discussions prior to merging branches.
